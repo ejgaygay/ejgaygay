@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ejgaygay
-- 👀 I’m interested in Coding, Video Games, Anime
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Object Oriented Programming, Low-Level Programming, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Instagram @egfrreal, YouTube - EJ Gaygay, Email - ejbaliath@gmail.com, eldyjohngaygay@yahoo.com
+- 📫 How to reach me - eldyjohngaygay@yahoo.com
 
 <!---
 ejgaygay/ejgaygay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
