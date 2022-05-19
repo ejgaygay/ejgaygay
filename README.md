@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejgaygay
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Object Oriented Programming, Low-Level Programming, Data Structures and Algorithms
+- 👀 I’m interested in web development, embedded systems, and mobile application development.
+- 🌱 I’m planning to learn about Operating Systems, Algorithm Analysis and Design, Software Development, and Networking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - eldyjohngaygay@yahoo.com
 
